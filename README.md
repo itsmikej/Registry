@@ -5,7 +5,7 @@ A simple and lightweight registry
 Installation
 ------------
 ```shell
-composer require imj\registry
+composer require imj/registry
 ```
 
 Basic Usage
