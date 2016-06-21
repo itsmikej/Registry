@@ -40,7 +40,7 @@ echo $r->get('foo_class')->sayHi(); // hi
 echo $r->foo_class->sayHi(); // hi
 ```
 
-Service register
+service register
 ```php
 use Imj\ServiceProviderInterface;
 use Imj\Registry;
