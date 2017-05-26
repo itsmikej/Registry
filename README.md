@@ -3,6 +3,9 @@ A simple and lightweight registry
 ===========================
 
 [![Build Status](https://travis-ci.org/itsmikej/Registry.svg?branch=master)](https://travis-ci.org/itsmikej/Registry)
+[![Latest Stable Version](https://poser.pugx.org/imj/registry/v/stable)](https://packagist.org/packages/imj/registry)
+[![Total Downloads](https://poser.pugx.org/imj/registry/downloads)](https://packagist.org/packages/imj/registry)
+[![License](https://poser.pugx.org/imj/registry/license)](https://packagist.org/packages/imj/registry)
 
 Installation
 ------------
