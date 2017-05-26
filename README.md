@@ -2,6 +2,8 @@
 A simple and lightweight registry
 ===========================
 
+[![Build Status](https://travis-ci.org/itsmikej/Registry.svg?branch=master)](https://travis-ci.org/itsmikej/Registry)
+
 Installation
 ------------
 ```shell
